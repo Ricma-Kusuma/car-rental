@@ -66,3 +66,4 @@ Sukoharjo, Central Java, Indonesia
 ---
 
 **Dibuat dengan ❤️  Oleh Ricma Widya Kusuma**
+**Prodi Bisnis Digital | Semester 5**
